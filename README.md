@@ -11,3 +11,5 @@ Models:
 7. Decision tree
 8. Random Forest
 9. Neural network
+
+Result: Random forest and Gradient boosting provided the best predictions with the accuracy around 0.82. I'm still trying to develop ab better NN model
